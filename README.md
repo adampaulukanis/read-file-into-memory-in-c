@@ -1,4 +1,4 @@
-# read-file-in-c
+# read-file-into-memory-in-c
 
 ## Links
 
